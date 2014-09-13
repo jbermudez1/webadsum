@@ -1,0 +1,813 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ver",
+				"verde-olivo"
+			],
+			[
+				"LIS",
+				"listaCategorias"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"backgr",
+				"background-clip"
+			],
+			[
+				"MAR",
+				"margin-left"
+			],
+			[
+				"BACK",
+				"background-repeat"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"s",
+				"src	Attr"
+			],
+			[
+				"PAD",
+				"padding-top"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"im",
+				"imput"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"WH",
+				"width"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"include",
+				"ps_include_file"
+			],
+			[
+				"comen",
+				"Comentarios"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"pre",
+				"placeholder"
+			],
+			[
+				"i",
+				"inline-table"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inn",
+				"inline-block"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"bnac",
+				"background-color"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"t",
+				"thin"
+			],
+			[
+				"border-col",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index2.php",
+			"settings":
+			{
+				"buffer_size": 11718,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "estilos.css",
+			"settings":
+			{
+				"buffer_size": 4762,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 9305,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/webadsum/form-index.php",
+		"/Applications/MAMP/htdocs/webadsum/css/estilos.css",
+		"/Applications/MAMP/htdocs/webadsum/estilos.css",
+		"/Applications/MAMP/htdocs/webadsum/index.php",
+		"/Applications/MAMP/htdocs/taipak/taipak2.0/sucursales.php",
+		"/Users/javierbermudez/proyectospg/togo/www/Code/application/togo/www/fonts/glyphicons-halflings-regular.svg",
+		"/Users/javierbermudez/proyectospg/togo/www/js/bootstrap.js",
+		"/Users/javierbermudez/proyectospg/togo/www/Code/application/togo/www/iscroll/README.md",
+		"/Users/javierbermudez/proyectospg/togo/www/js/togo.js",
+		"/Users/javierbermudez/proyectospg/togo/www/stylesheets/less/togo.less",
+		"/Applications/MAMP/htdocs/taipak/taipak2.0/js/confirmar.js",
+		"/Users/javierbermudez/proyectospg/togo/www/index.html",
+		"/Users/javierbermudez/proyectospg/togo/www2/index.html",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione-yoel/php/confirmar.php",
+		"/Users/javierbermudez/Documents/Proyectos/ToGo/datos/app/class/class.usuario_direccion.php",
+		"/Users/javierbermudez/Documents/Proyectos/ToGo/datos/app/ws/usuario.log",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/js/tomarorden.js",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/php/orden_detalle.php",
+		"/Users/javierbermudez/proyectospg/togo/www/iscroll/examples/ipad/index.html",
+		"/Users/javierbermudez/proyectospg/togo/www/iscroll/examples/simple/index.html",
+		"/Users/javierbermudez/proyectospg/togo/www/js/script copia.js",
+		"/Applications/MAMP/htdocs/concredito/home.php",
+		"/Applications/MAMP/htdocs/concredito/css/concredito.css",
+		"/Applications/MAMP/htdocs/concredito/registro1.php",
+		"/Applications/MAMP/htdocs/togo/xdk/js/togo.js",
+		"/Applications/MAMP/htdocs/togo/xdk/css/togo.css",
+		"/Applications/MAMP/htdocs/togo/xdk/index.html",
+		"/private/var/folders/sg/56np8mln6616dd135zkbw9hm0000gn/T/fz3temp-1/ws_crear_usuario.php",
+		"/private/var/folders/sg/56np8mln6616dd135zkbw9hm0000gn/T/fz3temp-1/ws_pedido.php",
+		"/private/var/folders/sg/56np8mln6616dd135zkbw9hm0000gn/T/fz3temp-1/ws_categoria.php",
+		"/private/var/folders/sg/56np8mln6616dd135zkbw9hm0000gn/T/fz3temp-1/class.usuario.php",
+		"/private/var/folders/sg/56np8mln6616dd135zkbw9hm0000gn/T/fz3temp-1/class.platillo.php",
+		"/private/var/folders/sg/56np8mln6616dd135zkbw9hm0000gn/T/fz3temp-1/class.pedido.php",
+		"/private/var/folders/sg/56np8mln6616dd135zkbw9hm0000gn/T/fz3temp-1/class.adicional.php",
+		"/private/var/folders/sg/56np8mln6616dd135zkbw9hm0000gn/T/fz3temp-1/config_server.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/index.php",
+		"/Users/javierbermudez/proyectospg/my-app/www/index.html",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/buscador.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/confirmar.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/menu.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/vercarrito.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/tomarorden.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/sucursales.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/privacidad.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/ordenar.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/nosotros.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/platillos.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/footer.php",
+		"/Applications/MAMP/htdocs/taipak/Web-Final-Proyeccione/get-platillos.php",
+		"/Users/javierbermudez/proyectospg/my-app/www/js/index.js",
+		"/Users/javierbermudez/proyectospg/my-app/www/config.xml",
+		"/Users/javierbermudez/proyectospg/my-app/www/js/togo.js",
+		"/Users/javierbermudez/proyectospg/my-app/www/index2.html",
+		"/Applications/MAMP/htdocs/concredito/home-convale.php",
+		"/Applications/MAMP/htdocs/concredito/menu-convale.php",
+		"/Applications/MAMP/htdocs/concredito/registro3.php",
+		"/Applications/MAMP/htdocs/concredito/registro2.php",
+		"/Applications/MAMP/htdocs/concredito/registro4.php",
+		"/Applications/MAMP/htdocs/concredito/semantic/css/semantic.css",
+		"/Users/javierbermudez/proyectospg/my-app/www/css/index.css",
+		"/Users/javierbermudez/proyectospg/my-app/www-OFF/index.html",
+		"/Applications/MAMP/htdocs/concredito/js/bootstrap.js",
+		"/Applications/MAMP/htdocs/proyeccione/css/demo1.css",
+		"/Applications/MAMP/htdocs/proyeccione/logo-menu.php",
+		"/Applications/MAMP/htdocs/proyeccione/index.php",
+		"/Applications/MAMP/htdocs/concredito/css/bootstrap.min.css",
+		"/Applications/MAMP/htdocs/concredito/js/bootstrap-tooltip.js",
+		"/Applications/MAMP/htdocs/concredito/js/bootstrap.min.js",
+		"/Applications/MAMP/htdocs/concredito/cliente.php",
+		"/Users/javierbermudez/proyectospg/my-app/www/leelo.html",
+		"/Users/javierbermudez/proyectospg/my-app/www/spec.html",
+		"/Users/javierbermudez/proyectospg/my-app/www/spec/index.js",
+		"/Users/javierbermudez/proyectospg/proyecto1/www/config.xml",
+		"/Users/javierbermudez/proyectospg/my-app/platforms/ios/www/js/index.js",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/services/getreports.php",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/services/getemployees.php",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/services/getemployee.php",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/services/config.php",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/www/employeedetails.html",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/www/reportlist.html",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/www/js/reportlist.js",
+		"/Applications/MAMP/htdocs/taipak/togo/prueba/test.php",
+		"/Applications/MAMP/htdocs/taipak/togo/prueba/consumetest.php",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/www/js/employeelist.js",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/www/js/employeedetails.js",
+		"/Users/javierbermudez/Desktop/EmployeeDirectoryJQM/www/index.html",
+		"/Applications/MAMP/htdocs/taipak/togo/get-platillos.php",
+		"/Applications/MAMP/htdocs/taipak/togo/platillos.php",
+		"/Applications/MAMP/htdocs/taipak/togo/php/paquetesmenu.php",
+		"/Applications/MAMP/htdocs/taipak/web/buscador.php",
+		"/Applications/MAMP/htdocs/taipak/web/sucursales.php",
+		"/Applications/MAMP/htdocs/taipak/web/get-platillos.php",
+		"/Applications/MAMP/htdocs/taipak/web/index.php",
+		"/Applications/MAMP/htdocs/taipak/web/tomarorden.php",
+		"/Applications/MAMP/htdocs/taipak/web/footer.php",
+		"/Applications/MAMP/htdocs/taipak/web/menu.php",
+		"/Applications/MAMP/htdocs/taipak/web/supedido.php",
+		"/Applications/MAMP/htdocs/taipak/web/confirmar.php",
+		"/Applications/MAMP/htdocs/taipak/web/vercarrito.php",
+		"/Applications/MAMP/htdocs/taipak/web/ordenar.php",
+		"/Applications/MAMP/htdocs/taipak/web/contacto.php",
+		"/Applications/MAMP/htdocs/taipak/web/privacidad.php",
+		"/Applications/MAMP/htdocs/taipak/web/nosotros.php",
+		"/Applications/MAMP/htdocs/taipak/web/platillos.php",
+		"/Applications/MAMP/htdocs/taipak/web/analyticstracking.php",
+		"/Applications/MAMP/htdocs/taipak/web/js/tomarorden.js",
+		"/Applications/MAMP/htdocs/taipak/web/css/taipak.css",
+		"/Applications/MAMP/htdocs/firmas/home.html",
+		"/Applications/MAMP/htdocs/firmas/firmaproyeccione.html",
+		"/Applications/MAMP/htdocs/firmas/index.html",
+		"/Applications/MAMP/htdocs/firmas/inex.html",
+		"/Applications/MAMP/htdocs/concredito/distribuidora.php",
+		"/Applications/MAMP/htdocs/concredito/menu.php",
+		"/Applications/MAMP/htdocs/concredito/login.php",
+		"/Applications/MAMP/htdocs/taipak/web/contactar.php",
+		"/Applications/MAMP/htdocs/taipak/web/conexion.php",
+		"/Applications/MAMP/htdocs/taipak/web/admin/conexion2.php",
+		"/Applications/MAMP/htdocs/taipak/web/php/conexion.php",
+		"/Applications/MAMP/htdocs/taipak/conexion.php",
+		"/Applications/MAMP/htdocs/taipak/final/admin/conexion2.php",
+		"/Applications/MAMP/htdocs/taipak/final/get-platillos.php",
+		"/Applications/MAMP/htdocs/taipak/final/php/class.phpmailer.php",
+		"/Applications/MAMP/htdocs/taipak/final/vercarrito.php",
+		"/Applications/MAMP/htdocs/taipak/final/css/taipak.css",
+		"/Applications/MAMP/htdocs/taipak/final/menu.php",
+		"/Applications/MAMP/htdocs/taipak/final/tomarorden.php",
+		"/Applications/MAMP/htdocs/taipak/final/buscador.php",
+		"/Applications/MAMP/htdocs/taipak/final/php/orden_detalle.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ciudad",
+			"ul",
+			"carrito",
+			"carr",
+			"carrito",
+			"header",
+			"carri",
+			"atras",
+			"carr",
+			"carrito",
+			"logi",
+			"tipo_entrega",
+			"total",
+			"margen1",
+			"login",
+			"impu",
+			"imputgr",
+			"ciudad",
+			"GuardarEnCarrito();",
+			"menu_detalle",
+			"cate",
+			"categorias",
+			"listaCategorias",
+			"    top:120px;scroller\nwrapper",
+			"overflow",
+			"homeCategorias",
+			"lista",
+			"overflow",
+			"hidden",
+			"ingres",
+			"registroUsuario",
+			"registrame",
+			"unblockUI",
+			"registroUsuario",
+			"registrame",
+			"ordenar",
+			"listaCategorias",
+			"listadocategoria",
+			"listaCategorias",
+			"lista",
+			"listaPlatillos",
+			"nombrePlatillolista",
+			"ender.js",
+			"fnBloquearUI",
+			"estatico",
+			"loguear",
+			"estatico",
+			"izquiereda",
+			"header",
+			"xhr",
+			"header",
+			"white",
+			"azul",
+			"loca",
+			"array",
+			"premios",
+			"ValidaControles",
+			"los campos marcados",
+			"enviar",
+			"Servicio a domicilio ",
+			" Servicio a domicilio ",
+			"paga",
+			"enviar",
+			"radio",
+			"6",
+			"clase",
+			"deviceready",
+			"deviceredy",
+			"device",
+			"margen",
+			"segment",
+			"verde",
+			"removeclass",
+			"cuerpo",
+			"detalle",
+			"page",
+			"menuprincipal",
+			"cuerpo",
+			"menu",
+			"margen",
+			"magern",
+			"tooltip",
+			"94px",
+			"tooltip 94px",
+			"tooltip fade",
+			"tooltip",
+			"Tooltip.prototype = {",
+			"  Tooltip.prototype = {",
+			"botonesregistro2",
+			".ui.large.step, .ui.large.steps .step",
+			"margin",
+			"azul",
+			"VERDE",
+			"ui step",
+			".step.larger",
+			"step.larger",
+			"large",
+			"bg",
+			"premia",
+			"flotantepremia",
+			"premia",
+			"text2",
+			"linea",
+			"padding",
+			"margen",
+			"linea",
+			"cle",
+			"text4",
+			"menu",
+			"linea.png",
+			"linea",
+			"mostrarsxsx",
+			"hr",
+			"ocultar",
+			"oculrar",
+			"mostrarsxsx",
+			"impu",
+			"floatleft",
+			"float",
+			"paddin",
+			"ocultarsxs",
+			"        <div class=\"copy\">\n          <small>Todos los derechos reservados, Taipak Restaurant 2013.</small>\n        </div>",
+			"displa",
+			"dina",
+			"LanzaBusqueda2",
+			"impu",
+			"onc",
+			"selec"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Applications/MAMP/htdocs/webadsum"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index2.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10659,
+								10659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3535.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4722,
+								4722
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3221.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
