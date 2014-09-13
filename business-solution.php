@@ -74,7 +74,7 @@
   <div class="span4">
     	<div class="iconosinfo"><img src="img/icon-caracteristicas.jpg">
     	  		<div class="tabsindex" style="text-align:left">
-    	  		<h4>Caracteísticas:</h4>
+    	  		<h4>Características:</h4>
 
   			<ul>
 				<li> Multi </li>
@@ -167,7 +167,7 @@
   <div class="span4">
     	<div class="iconosinfo"><img src="img/icon-caracteristicas.jpg">
     	  		<div class="tabsindex" style="text-align:left">
-    	  		<h4>Caracteísticas:</h4>
+    	  		<h4>Características:</h4>
 
   			<ul>
 				<li>Exportación de expedientes: Exporta todos los expedientes registrados de sus pacientes cuando lo desee.</li>
@@ -245,7 +245,7 @@
   <div class="span4">
     	<div class="iconosinfo"><img src="img/icon-caracteristicas.jpg">
     	  		<div class="tabsindex" style="text-align:left">
-    	  		<h4>Caracteísticas:</h4>
+    	  		<h4>Características:</h4>
 
   			<ul>
 					<li>Funciona totalmente sobre internet</li>
@@ -324,7 +324,7 @@
   <div class="span4">
     	<div class="iconosinfo"><img src="img/icon-caracteristicas.jpg">
     	  		<div class="tabsindex" style="text-align:left">
-    	  		<h4>Caracteísticas:</h4>
+    	  		<h4>Características:</h4>
 
   			<ul>
 				<li>Solución tecnológica disponible como servicio</li>
@@ -366,6 +366,7 @@
     	<div class="iconosinfo"><img src="img/icon-masinformacion.jpg">
     	  		<div class="tabsindex" style="text-align:left">
     	  		<h4>Aplicación para:</h4>
+
   			<ul>
 				<li>Todo tipo de organizaciones privadas o públicas que cuentan con más de 20 empleados y requieren una herramienta que permita desarrollar y ejecutar programas de capacitación de una manera totalmente efectiva:</li>
 				<ul><li>Empresas comerciales</li>
@@ -419,7 +420,7 @@
   <div class="span4">
     	<div class="iconosinfo"><img src="img/icon-caracteristicas.jpg">
     	  		<div class="tabsindex" style="text-align:left">
-    	  		<h4>Caracteísticas:</h4>
+    	  		<h4>Características:</h4>
 
   			<ul>
 					<li>Multi: </li>
@@ -464,6 +465,90 @@
     </div>
 
 </div>
+<!-- END BLOQUE PRODUCTO -->
+<hr>
+<!-- BLOQUE PRODUCTO -->
+<div class="prod-logo">
+	<img src="img/prologos/gestio.png">
+	<h2>Plataforma para la gestión<br> <strong style="color:#2e6b85">de créditos financieros</strong></h2><br>
+	<p>Todas sus operaciones desde desde la prospección y originaciónde los créditos, hasta la cobranza y recuperación de los mismos.</p>
+</div>
+<div class="row">
+  <div class="span4">
+  	<div class="iconosinfo"><img src="img/icon-beneficios.jpg"></div>
+  		<div class="tabsindex" style="text-align:left">
+  		<h4>Beneficios:</h4>
+
+  			<ul>
+				<li>Permite controlarbases de datos de prospectos de diferentes fuentes (Campañas, Expos, CallCenter, etc)</li>
+				<li>Personaliza todos los datos necesarios para la Solicitud de crédito.</li>
+				<li>Personaliza el registro de estudio socio económico por solicitud</li>
+				<li>Diferentes plantillas de contrato, según sea el producto de financiamiento</li>
+				<li>Integración de alertas de cobranza via e-mail y SMS</li>
+				<li>Administra cuentas bancarias pesos / dólares</li>
+				<li>Permite la integración de estados de cuenta de bancos para realizar conciliación bancaria</li>
+				<li>Permite la generación de tablas de amortización</li>
+				<li>Permite contabilidad multiOficinas</li>
+				<li>Atiende requerimientos de SAT respecto a Contabilidad Electrónica</li>
+			</ul>
+  		</div>
+  
+  </div>
+  <div class="span4">
+    	<div class="iconosinfo"><img src="img/icon-caracteristicas.jpg">
+    	  		<div class="tabsindex" style="text-align:left">
+    	  		<h4>Características:</h4>
+
+  			<ul>
+				<li>MultiUsuarios</li>
+				<li>Multi Sucursales</li>
+				<li>Diseñado para funcionar desde la “nube” de internet</li>
+				<li>Repositorio de expedientes digitales de operaciones de crédito</li></ul>
+				<li>Administra las diferentes fases relacionadas en la gestión de créditos:</li>
+						<ul>
+							<li>Promoción</li>
+							<li>Solicitud de crédito</li>
+							<li>Evaluación</li>
+							<li>Autorización y Contratación</li>
+							<li>Gestión de crédito</li>
+							<li>Gestión de cobranza</li>
+						</ul>
+				<li>Permite personalización de:</li>
+						<ul>
+							<li>Campos personalizados de clientes</li>
+							<li> Datos de solicitud de crédito</li>
+							<li>Datos de Estudio Socio Económico</li>
+							<li>Formato de contratos de crédito</li>
+						</ul>
+			</ul>
+
+
+
+  </div>
+  </div>
+    </div>
+
+   <div class="span4">
+    	<div class="iconosinfo"><img src="img/icon-masinformacion.jpg">
+    	  		<div class="tabsindex" style="text-align:left">
+    	  		<h4>Aplicación para:</h4>
+    	  		<!--
+  			<ul>
+				<li>Todo tipo de organizaciones privadas o públicas que cuentan con más de 20 empleados y requieren una herramienta que permita desarrollar y ejecutar programas de capacitación de una manera totalmente efectiva:</li>
+				<ul><li>Empresas comerciales</li>
+				<li>Empresas de servicios</li>
+				<li>Empresa de fabricación</li>
+				<li>Dependencias de los 3 niveles de gobierno</li></ul>
+  			</ul>-->
+  			  <button class="btn btn-success" type="button" onClick="location.href='/gestio/index.html'">Más Información</button>
+
+  </div>
+  </div>
+    </div>
+
+</div>
+<hr>
+
 <!-- END BLOQUE PRODUCTO -->
 
 	</div>
