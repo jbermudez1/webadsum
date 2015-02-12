@@ -1,14 +1,14 @@
 <?
 if (!$HTTP_POST_VARS){
 ?>
-	        	<h4 style="color:orange">Cont&aacute;ctenos, hablemos de su negocio</h4>
+	        	<h4 style="color:#1868cc;">Cont&aacute;ctenos, hablemos de su negocio</h4>
 	        	 <form name="form1" id="form1" method="post" action="form-index.php" class="navbar-search pull-left">
 				    <input name="nombre" id="nombre" style="float:left" type="text" class="search-query" placeholder="Nombre Completo">
 				    <input name="empresa" id="empresa" style="float:left; margin-left:40px;" type="text" class="search-query" placeholder="Empresa"><br><br>
 				    <input name="email" id="email" style="float:left;" type="text" class="search-query" placeholder="E-mail">
 				    <input name="telefono" id="telefono" style="float:left; margin-left:40px;" type="text" class="search-query" placeholder="No. Telefono / Celular"><br><br>
-				    <div style="text-align:right">
-				    	<button type="submit" class="btn btn-warning" onclick="javascript:form1.submit()">Enviar</button>
+				    <div style="text-align:left">
+				    	<button type="submit" class="btn btn-primary" onclick="javascript:form1.submit()">Enviar</button>
 				    </div>
 
     </form>
