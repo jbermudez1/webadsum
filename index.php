@@ -27,7 +27,7 @@ de información al interior de su compañía.">
         <div class="col-lg-6 col-md-8 col-sm-9 col-xs-12 menuprincipal">
          <div class="text-center"> <img  class=" img-responsive visible-xs centradoxs" src="img/logo.png"></div>
 
-        <div class="navbar navbar-default navbar-static-top" role="navigation">
+        <div class="navbar navbar-default navbar-static-top" role="navigation" style="margin-top:25px">
           <div class="container-OFF">
 
             <div class="navbar-header">
@@ -73,6 +73,7 @@ de información al interior de su compañía.">
 <!-- END HEADER -->
 
 <div class="bgxs visible-xs">
+
 
 </div>
 
@@ -159,6 +160,9 @@ de información al interior de su compañía.">
     
 <!-- /.CONTENIDOS -->
 <div class="container">
+  <div class="col-sm-2 text-center" style="width:8%;">
+      
+    </div>
  
     <div class="col-sm-2 text-center">
       <h3>Desarrollo</h3><p class="lead" style="margin-top:-16px;">de Software<br></p>
@@ -429,8 +433,9 @@ de información al interior de su compañía.">
 
       
   </div>
+  <hr>
 </div>
-<hr>
+
 <div class="container">
       <br>
 
