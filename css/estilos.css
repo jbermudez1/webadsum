@@ -1,43 +1,4 @@
-
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700);
-
-body {
-  font-family: roboto;
-  font-weight: 400;
-}
-
-.fontb{
-  font-family: roboto;
-  font-weight: 700;
-}
-
-.inline{
-  display: inline-block !important;
-}
-
-.11{
-  margin-top: 30px !important;
-}
-
-
-.azul{
-   color: #1868cc;
-}
-
-.t2{
-  font-size: 1.2em;
-}
-
-.gris{
-  color: #7b7b7b;
-}
-
-.backblanco{
-  background-color: #ffffff;
-}
-
-
-.logoymenu  {
+﻿.logoymenu  {
 margin:0 auto 0 auto; width:900px;
 
       position: absolute;
@@ -52,9 +13,8 @@ margin:0 auto 0 auto; width:900px;
 }
 .tabsindex {
 	text-align:;
-	font-size:0.9em;
-	color: #7b7b7b;
-  margin-top: 20px;
+	font-size:13px;
+	color: #7b7b7b
 }
 /* HEAD MENU PAGINA SECUNTARIOA */
 
@@ -62,17 +22,11 @@ margin:0 auto 0 auto; width:900px;
       background-color:white;
       padding:5px;
       border-bottom: 1px solid rgba(0, 0, 0, 0.15);
-      box-shadow: 0 1px 0 #EEEEEE inset; /*
+    box-shadow: 0 1px 0 #EEEEEE inset; /*
       -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
          -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
               box-shadow: 0 2px 10px rgba(0,0,0,.25);
               */
-}
-
-.bgxs{
-  background-image: url("../img/carrucel/img1.jpg");
-    background-position: center top;
-    height: 300px;
 }
 
 .body-bg {
@@ -135,7 +89,7 @@ margin:0 auto 0 auto; width:900px;
         /* RESPONSIVE CSS
     -------------------------------------------------- */
 
-   /* @media (max-width: 979px) {
+    @media (max-width: 979px) {
 
       .container.navbar-wrapper {
         margin-bottom: 0;
@@ -211,6 +165,7 @@ margin:0 auto 0 auto; width:900px;
         line-height: 1.5;
       }
 
-    }*/
- 
+    } */
+    */
+    </style>
 
