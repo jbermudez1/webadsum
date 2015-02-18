@@ -1,0 +1,87 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,900);
+
+body,html{
+	height:100%;
+	font-family: 'Lato', sans-serif;
+}
+
+img, figure{
+	width: auto;
+	max-width: 100%;
+}
+
+
+nav{
+	width:100%; 
+	padding-left: 5em; 
+	padding-right: 5em;
+	padding-top: 1em;
+	padding-bottom:1em;
+	background-color: rgba(8, 118, 171, 0.9);
+}
+
+nav .logo{
+	text-align: center;
+}
+
+nav .menu{
+	float:right;
+}
+
+section{
+	padding-left: 5em;
+	padding-right: 5em;
+}
+
+.menu li{
+	display: inline;
+	margin-left: 1em;
+}
+
+.banner{
+	background-image: url(../../img/banner.png); 
+	background-size: cover;
+	height: 60%;
+	background-position: center;
+}
+
+.texto{
+	color: #484848;
+}
+
+.inter{
+	line-height: 0.8em;
+}
+
+.rombo{
+	margin-top: 1em;
+	text-align: center;
+	clear: both;
+	position: relative;
+}
+
+.columna{
+	margin-bottom: 1.5em;
+	font-size: 1.2em;
+}
+
+.columna .titulo{
+	font-size: 1.5em;
+}
+
+.columna .subt{
+	font-size: 0.7em;
+}
+
+
+.tit1{
+	font-size: 2em;
+}
+
+.subt1{
+	font-size: 1.3em;
+}
+
+.azul{
+	background-color: #1697d4;
+}
