@@ -9,8 +9,11 @@
 		}
 	nav .logo{
 		float: left;
+		width: 25%
 	}
-
+.columna .titulo1{
+	font-size: 1.5em;
+}
 	.columna{
 			width: 18%;
 			display: inline-block;

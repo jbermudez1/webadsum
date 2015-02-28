@@ -8,24 +8,81 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 <link rel="stylesheet" href="estilos/css/adsum.css">
 <link rel="stylesheet" href="estilos/css/adsummedias.css">
+
+<link href="owl/assets/css/custom.css" rel="stylesheet">
+
+    <!-- Owl Carousel Assets -->
+    <link href="owl/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link href="owl/owl-carousel/owl.theme.css" rel="stylesheet">
+
+    <link href="owl/assets/js/google-code-prettify/prettify.css" rel="stylesheet">
+          <style type="text/css">
+                 
+
+                                   </style>
 </head>
 <body>
+
 	<nav>
 		<figure class="logo">
 			<img src="img/logoadsum.png">
 		</figure>
-		<ul class="menu hidden-xs">
+<!-- 		<ul class="menu hidden-xs">
 			<li>Inicio</li>
 			<li>Servicio</li>
 			<li>Soluciones</li>
 			<li>Blog</li>
 			<li>Contacto</li>
-		</ul>
+		</ul> -->
+		<!--  -->
+<ul class="menu  nav-pills">
+ <li><a href="#">Inicio</li>
+  <li role="" class="dropdown">
+    <a class="" data-toggle="dropdown" href="#" role="" >
+      Servicios <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu" role="menu">
+      <li>Desarrollo de software</li><hr>
+      <li>Licenciamiento</li>
+    </ul>
+  </li>
+    <li role="presentation" class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
+      Soluciones <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu" role="menu">
+      <li>Solciones de Negocios</li><hr>
+      <li>Soluciones para vender más</li><hr>
+      <li>Apps para iPad, iPhone, W8</li>
+
+    </ul>
+  </li>
+  <li><a href="#">Blog</a></li>
+  <li><a href="#">Contacto</a></li>
+</ul>
+
 	</nav>
 
-	<section class="banner">
-		<p>texto asdfasdfasdfasdfasdfasdf</p>
-	</section>
+	<article class="banner">
+			
+
+
+		      <div id="demo">
+	        <div class="container-OFF">
+	          <div class="row-off">
+	            <div class="">
+	              <div id="owl-demo" class="owl-carousel">
+
+	                <div class="item b1" ><!-- <img src="assets/fullimage1.jpg" alt="The Last of us"> --></div>
+	                <div class="item"></div>
+	                <div class="item"></div>
+
+	              </div>
+	            </div>
+	          </div>
+	        </div>
+	    </div>
+	</article>
 
 	<section class="rombo secciones">
 		<article class="columna">
@@ -148,7 +205,39 @@
 		</article>
 			
     </section> -->
+<script src="owl/assets/js/jquery-1.9.1.min.js"></script> 
+    <script src="owl/owl-carousel/owl.carousel.js"></script>
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+    <style>
+    #owl-demo .item img{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    </style>
+
+
+    <script>
+    $(document).ready(function() {
+      $("#owl-demo").owlCarousel({
+
+      navigation : false,
+      slideSpeed : 300,
+      paginationSpeed : 400,
+      singleItem : true,
+      // autoPlay: true
+
+      // "singleItem:true" is a shortcut for:
+      // items : 1, 
+      // itemsDesktop : false,
+      // itemsDesktopSmall : false,
+      // itemsTablet: false,
+      // itemsMobile : false
+
+      });
+    });
+    </script>
 </body>
 </html>

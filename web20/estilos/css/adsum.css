@@ -26,20 +26,33 @@ nav .logo{
 
 nav .menu{
 	float:right;
+	margin-top: 1.8em;
 }
 
 section{
-	padding-left: 5em;
-	padding-right: 5em;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 
-.menu li{
+.menu > li{
 	display: inline;
-	margin-left: 1em;
+	padding-left: 2em;
+	
 }
-
+.menu li a {
+	color: white
+}
+.dropdown-menu {
+	left: auto;
+	padding: 1em;
+	min-width: 200px;
+}
+hr {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
 .banner{
-	background-image: url(../../img/banner.png); 
+	/*background-image: url(../../img/banner.png); */
 	background-size: cover;
 	height: 60%;
 	background-position: center;
@@ -58,6 +71,7 @@ section{
 	text-align: center;
 	clear: both;
 	position: relative;
+	overflow: hidden;
 }
 
 .formulario{
@@ -72,10 +86,13 @@ section{
 .columna{
 	margin-bottom: 1.5em;
 	font-size: 1.2em;
+	width: 50%;
+	float:left;
+	padding: 0.5em;
 }
 
 .columna .titulo1{
-	font-size: 1.5em;
+	font-size: 1.1em;
 }
 
 .columna .subt{
@@ -114,6 +131,7 @@ section{
 .secciones{
 	margin-top:4em;
 	margin-bottom: 4em;
+	overflow: hidden;
 }
 .blanco{
 	color: #ffffff;
@@ -143,3 +161,19 @@ border-top-left-radius: 20px;
 	padding-left: 1.5em;
 	color: gray;
 }
+/*BANNERS*/
+
+.b1 {
+background-image: url(../../owl/demos/assets/fullimage1.jpg);
+background-size: cover;
+height: 200px;
+width: 100%;
+  }
+
+
+
+
+
+
+
+
