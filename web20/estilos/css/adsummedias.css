@@ -12,10 +12,10 @@
 		width: 25%
 	}
 .columna .titulo1{
-	font-size: 1.5em;
+	font-size: 1em;
 }
 	.columna{
-			width: 18%;
+			width: 20%;
 			display: inline-block;
 			padding-left: 2em;
 			padding-right: 2em;
@@ -34,11 +34,25 @@
 			padding-left: 2em;
 			padding-right: 2em;
 	}
+.owl-carousel .item {
+height: 400px;
 
+
+}
  }
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) { ... }
+@media (min-width: 992px) { 
+.columna .titulo1{
+	font-size: 1.5em;
+}
+}
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) { ... }
+@media (min-width: 1200px) {
+	.owl-carousel .item {
+	height: 600px;
+
+
+}
+}
