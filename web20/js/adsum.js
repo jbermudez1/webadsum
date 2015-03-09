@@ -13,6 +13,17 @@ $("#navegacion").load("nav.html", function(){
 	});
 });
 
-	
+
 
 }
+
+
+function bsolutions () {
+	 $("#qualis").load("soluciones/business-solution/qualis.html");
+	 $("#salutis").load("soluciones/business-solution/salutis.html");
+	 $("#otraining").load("soluciones/business-solution/otraining.html");
+	 $("#bistroft").load("soluciones/business-solution/bistroft.html");
+	 $("#kredits").load("soluciones/business-solution/kredits.html");
+
+}
+

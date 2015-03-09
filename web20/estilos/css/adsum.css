@@ -118,6 +118,10 @@ nav .verMenu {
 	padding: 1em;
 	min-width: 200px;
 }
+.dropdown-menu li a {
+	color: gray;
+	padding: 0;
+}
 hr {
 	margin-top: 5px;
 	margin-bottom: 5px;
