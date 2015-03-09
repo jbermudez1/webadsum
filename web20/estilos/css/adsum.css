@@ -42,6 +42,77 @@ section{
 .menu li a {
 	color: white
 }
+.lateralMenu {
+	position: fixed;
+	width: 80%;
+	height: 100%;
+	background-color: rgba(8, 118, 171, 1);
+	z-index: 99;
+	transition: 0.3s all ease;
+	-webkit-transition: 0.3s all ease;
+}
+
+.ocultaMenu {
+	transform: translate3d(-100%, 0, 0);
+	-webkit-transform: translate3d(-100%, 0, 0);
+}
+
+.lateralMenu .verMenu {
+	right: 1em;
+	position: absolute;
+	padding-top: 1em;
+	color: white;
+}
+nav .verMenu {
+	color: white;
+	position: absolute;
+	left: 0.3em;
+	top: 1em;
+	
+}
+.lateralMenu ul {
+	color: 	white;
+	list-style: none;
+
+}
+.lateralMenu li {
+	padding-top: 0.7em;
+	padding-bottom: 0.7em;
+	font-size: 1em
+}
+.lateralMenu span{
+	font-size: 1.5em;
+	margin-top: 1em;
+	position: relative;
+}
+.lateralMenu span:before{
+	content: "";
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 100%;
+	height: 1px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+
+
+}
+
+.lateralMenu  a {
+	color: yellow;
+/*	font-size: 1.3em;
+*/	position: relative;
+}
+
+
+.lateralMenu > ul {
+	padding-top: 2em;
+	margin-left: 0;
+	padding-left: 1em;
+}
+.lateralMenu > ul >ul {
+	margin-left: 0;
+	padding-left: 0;
+}
 .dropdown-menu {
 	left: auto;
 	padding: 1em;
