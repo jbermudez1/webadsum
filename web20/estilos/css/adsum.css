@@ -17,7 +17,7 @@ nav{
 	padding-right: 5em;
 	padding-top: 1em;
 	padding-bottom:1em;
-	background-color: rgba(8, 118, 171, 0.9);
+	background-color: rgba(8, 118, 171, 0.7);
 }
 
 nav .logo{
@@ -78,12 +78,15 @@ nav .verMenu {
 .lateralMenu li {
 	padding-top: 0.7em;
 	padding-bottom: 0.7em;
-	font-size: 1em
+	font-size: 1.1em
 }
 .lateralMenu span{
-	font-size: 1.5em;
+	font-size: 0.8em;
 	margin-top: 1em;
 	position: relative;
+	color: yellow;
+	padding-left: 70%;
+
 }
 .lateralMenu span:before{
 	content: "";
@@ -98,7 +101,7 @@ nav .verMenu {
 }
 
 .lateralMenu  a {
-	color: yellow;
+	color: white;
 /*	font-size: 1.3em;
 */	position: relative;
 }
@@ -253,6 +256,30 @@ background-image: url(../../img/banner2.jpg);
   }
 .b3 {
 background-image: url(../../img/banner3.jpg);
+
+  }
+.b4 {
+background-image: url(../../img/banner4.jpg);
+
+  }
+.b5 {
+background-image: url(../../img/banner5.jpg);
+
+  }
+.b6 {
+background-image: url(../../img/banner6.jpg);
+
+  }
+.b7 {
+background-image: url(../../img/banner7.jpg);
+
+  }
+.b8 {
+background-image: url(../../img/banner8.jpg);
+
+  }
+.b9 {
+background-image: url(../../img/banner9.jpg);
 
   }
 
