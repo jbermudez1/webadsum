@@ -241,6 +241,7 @@ border-top-left-radius: 20px;
 }
 /*BANNERS*/
 .owl-carousel .item {
+
 background-size: cover;
 height: 300px;
 width: 100%;
@@ -282,6 +283,25 @@ background-image: url(../../img/banner8.jpg);
 background-image: url(../../img/banner9.jpg);
 
   }
+
+ .p1, .p2{
+ 	font-size: 2.3em;
+ 	text-align: center;
+ 	line-height: 1.2em;
+ 	color: white;
+ 	text-shadow: 0px 0px 3px black;
+
+ }
+
+ .p1{
+ 	padding-top: 2.6em;
+ 	font-weight: 100;
+
+ }
+
+ .p2{
+ 
+ }
 
 
 

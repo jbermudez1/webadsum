@@ -42,6 +42,22 @@ height: 400px;
 .primerContenido {
 	padding-top: 8em;
 }
+
+.p1, .p2{
+ 	font-size: 4em;
+ 	text-align: center;
+ 	line-height: 1.2em;
+ 	color: white;
+ 	text-shadow: 0px 0px 3px black;
+
+ }
+
+ .p1{
+ 	padding-top: 2.8em;
+ 	font-weight: 100;
+
+ }
+
 /*MENU*/
 
 }
@@ -56,8 +72,16 @@ height: 400px;
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 	.owl-carousel .item {
-	height: 600px;
+	height: 500px;
 
 
 }
+
+.p1{
+ 	padding-top: 4em;
+ 	font-weight: 100;
+
+ }
+
+
 }
