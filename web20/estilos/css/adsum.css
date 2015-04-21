@@ -45,17 +45,23 @@ section{
 
 .submenu {
 
-    background-image: url("img/discover-bg.png");
     background-position: center 134px;
     height: 60px;
-    z-index: 19;
-    position: fixed;
+    z-index: 2;
     width: 940px;
-    margin-top: 100px;
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.8);
     width: 100%;
     text-align: center;
+    visibility: hidden;
 
+}
+.margenSubmenu{
+	position: absolute;
+	margin-top: 100px;
+}
+.fijo {
+	position: fixed;
+	top: 0px!important;
 }
 
 .submenu > ul > li{

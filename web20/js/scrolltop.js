@@ -12,4 +12,25 @@
             scrollTop: $(strAncla).offset().top
         },1000);
     });
+// 
+
+
+var fixed = false;
+
+$(document).scroll(function() {
+    if( $(this).scrollTop() >= 100 ) {
+        if( !fixed ) {
+            fixed = true;
+            $('.submenu').addClass("fijo").removeClass("margenSubmenu"); // Or set top:20px; in CSS
+        }                                           // It won't matter when static
+    } else {
+        if( fixed ) {
+            fixed = false;
+            $('.submenu').removeClass("fijo").addClass("margenSubmenu");
+        }
+    }
 });
+
+
+});
+

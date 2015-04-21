@@ -60,6 +60,9 @@ height: 400px;
 
 /*MENU*/
 
+.submenu {
+	 visibility: visible;
+}
 }
 
 /* Medium devices (desktops, 992px and up) */
