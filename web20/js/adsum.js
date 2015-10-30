@@ -36,6 +36,11 @@ function apps () {
 	 $("#apps").load("soluciones/apps/apps.html");
 
 }
+function corganizacional () {
+	 $("#otraining2").load("soluciones/corganizacional/otraining.html");
+	 $("#academy").load("soluciones/corganizacional/adsumacademy.html");
+
+}
 function desarrollo () {
 	 $("#desarrollo").load("servicios/desarrollo-software/development.html");
 
